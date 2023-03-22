@@ -1,0 +1,20 @@
+{
+  "name": "openai-custom-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon runner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
